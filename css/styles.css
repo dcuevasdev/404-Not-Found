@@ -1,0 +1,33 @@
+/*==============
+  Estilos globales
+==================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Space Mono", monospace;
+  font-size: 62.5%;
+}
+
+/*=========
+  Variables
+===========*/
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap");
+:root {
+  /*======
+    Colors
+==========*/
+  --color-gray-one: #333333;
+  --color-gray-two: #4f4f4f;
+  --color-footer: #bdbdbd;
+
+  /*=======
+    Font-size
+=============*/
+  --desktop-l: 6.4rem;
+  --desktop-s: 2.4rem;
+  --mobile-l: 4.8rem;
+  --mobile-s: 1.8rem;
+}
