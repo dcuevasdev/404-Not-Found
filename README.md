@@ -28,7 +28,7 @@ En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.
 
 ![](https://i.imgur.com/JTHHLps.jpg)
 
-#### Mobile 📱
+### Mobile 📱
 
 ![](https://i.imgur.com/AIBchc9.jpg)
 
