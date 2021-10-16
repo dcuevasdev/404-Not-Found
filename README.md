@@ -1,4 +1,4 @@
-<h1 align="center">404-Not-Found </h1>
+<h1 align="center">404-Not-Found ⚠️</h1>
 
 <div align="center">
     Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -41,9 +41,9 @@ En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.
 ## ✒️ Autores
 
 - **Daniel Cuevas** - _Desarrollo_ - [@dcuevasr24](https://twitter.com/dcuevasr24 "@dcuevasr24")
-- **devChallenges** - Diseño - [devChallenge.io](https://devchallenges.io/challenges "devChallenge.io")
+- **devChallenges** - Diseño - [devChallenge.io](https://devchallenges.io/ "devChallenge.io")
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge.
 
 ## Contacto
 
