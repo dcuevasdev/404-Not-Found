@@ -10,6 +10,14 @@ html {
   font-family: "Space Mono", monospace;
   font-size: 62.5%;
 }
+.container {
+  display: grid;
+  min-width: 3.35rem;
+  max-width: 120rem;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1rem;
+}
 
 /*=========
   Variables
@@ -30,4 +38,14 @@ html {
   --desktop-s: 2.4rem;
   --mobile-l: 4.8rem;
   --mobile-s: 1.8rem;
+}
+
+/*======
+  Header
+========*/
+.header__logo {
+  font-family: "Inconsolata", monospace;
+  font-size: var(--desktop-s);
+  font-weight: 700;
+  color: var(--color-gray-one);
 }
