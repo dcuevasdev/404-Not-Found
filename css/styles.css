@@ -9,6 +9,7 @@
 html {
   font-family: "Space Mono", monospace;
   font-size: 62.5%;
+  line-height: 1.5;
 }
 .container {
   display: grid;
@@ -48,4 +49,56 @@ html {
   font-size: var(--desktop-s);
   font-weight: 700;
   color: var(--color-gray-one);
+}
+
+/*======
+  main
+========*/
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5.4rem;
+  margin: 6.4rem 0 auto;
+}
+.main__figure {
+  min-width: 23.8rem;
+  max-width: 54rem;
+  margin-bottom: 4.8rem;
+}
+.main__figure img {
+  width: 100%;
+}
+.main__texts {
+  min-width: 35rem;
+  max-width: 58.6rem;
+}
+.main__texts h1 {
+  margin-bottom: 3.2rem;
+  font-size: var(--mobile-l);
+  font-weight: 700;
+  color: var(--color-gray-one);
+}
+.main__texts p {
+  min-width: 32.8rem;
+  max-width: 38.1rem;
+  margin-bottom: 4.8rem;
+  font-size: var(--mobile-s);
+  color: var(--color-gray-two);
+}
+.main__texts button {
+  width: 21.6rem;
+  height: 6.8rem;
+  border: none;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: white;
+  background: var(--color-gray-one);
+  cursor: pointer;
+  outline: none;
+}
+.main__texts button:hover {
+  border: 0.2rem solid var(--color-gray-one);
+  color: var(--color-gray-one);
+  background: white;
 }
