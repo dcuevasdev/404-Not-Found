@@ -36,7 +36,7 @@ html {
   /*=======
     Font-size
 =============*/
-  --desktop-l: 6.4rem;
+  --desktop-l: 5.6rem;
   --desktop-s: 2.4rem;
   --mobile-l: 4.8rem;
   --mobile-s: 1.8rem;
@@ -76,7 +76,7 @@ html {
 }
 .main__texts h1 {
   margin-bottom: 3.2rem;
-  font-size: var(--mobile-l);
+  font-size: var(--desktop-l);
   font-weight: 700;
   color: var(--color-gray-one);
 }
